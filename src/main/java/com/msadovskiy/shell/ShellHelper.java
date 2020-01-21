@@ -37,7 +37,7 @@ public class ShellHelper {
     public String getInfoMessage(String message) {
         return getColored(message, PromptColor.valueOf(infoColor));
     }
-
+sd
     public String getSuccessMessage(String message) {
         return getColored(message, PromptColor.valueOf(successColor));
     }
