@@ -1,0 +1,7 @@
+==============================================
+=                                            =
+=              Eco Bike Project              =
+=                                            =
+==============================================
+Version: 1.0.0
+Use db command to set the bike data file name (e.g. db --file ecobike.txt)
